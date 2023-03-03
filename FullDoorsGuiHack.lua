@@ -1,6 +1,6 @@
 local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wall%20v3')))()
 
-local MainWindow = library:CreateWindow("      Nerd Hack ~ V1")
+local MainWindow = library:CreateWindow("      Nerd Hack ~ V1.0")
 
 local EspFolder = MainWindow:CreateFolder("ESP")
 
